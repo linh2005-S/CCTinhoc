@@ -13,3 +13,5 @@ GỒM 2 LOẠI PHẦN MỀM:
 + PHẦN MỀM CÔNG CỤ: C++,..
 + PHẦN MỀM TIỆN ÍCH: UNIKEY,..
 + PHẦN MỀM NHÚNG: GHI TRONG ROM, WIFI,..
+
+Bài tập trang 43/44
