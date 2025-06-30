@@ -10,6 +10,6 @@ BỘ XỬ LÍ TRUNG TÂM: RAM, Ổ CỨNG, BỘ NHỚ CHÍNH, MEMORY
 GỒM 2 LOẠI PHẦN MỀM: 
 - PHẦN MỀM HỆ THỐNG: ĐIỀU KHIỂN VÀ SỬ DỤNG ĐC LÀ DO PHẦN MỀM NÀY
 - PHẦN MỀM ỨNG DỤNG: PHỤ VỤ CHO CÔNG VIỆC HOẠT ĐỌN NGHIỆP VỤ
-  +PHẦN MỀM CÔNG CỤ: C++,..
-  +PHẦN MỀM TIỆN ÍCH: UNIKEY,..
-  +PHẦN MỀM NHÚNG: GHI TRONG ROM, WIFI,..
++ PHẦN MỀM CÔNG CỤ: C++,..
++ PHẦN MỀM TIỆN ÍCH: UNIKEY,..
++ PHẦN MỀM NHÚNG: GHI TRONG ROM, WIFI,..
